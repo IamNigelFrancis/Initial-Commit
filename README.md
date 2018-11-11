@@ -8,3 +8,7 @@ Example README file for my initial-commit repo. First insight into Markdown.
 ### Link Example
 
 [I Am Nigel Francis](https://www.iamnigelfrancis.com)
+
+[And here](francisweb.solutions)
+
+[And here](https://www.nfoperatorservices.com)
